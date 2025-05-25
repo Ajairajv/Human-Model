@@ -66,5 +66,5 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-For feedback or inquiries, open an issue on [GitHub](https://github.com/Ajairajv/human-model/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+For feedback or inquiries, open an issue on [GitHub](https://github.com/Ajairajv/human-model/issues)
 Built with 🎨 by [Ajairajv](https://github.com/Ajairajv).
